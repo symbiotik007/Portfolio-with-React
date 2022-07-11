@@ -35,7 +35,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Support Engineer at Instaleap"
+            text: "IT Support Engineer at Instaleap"
         },
         {
             emoji: "📧",
@@ -82,14 +82,13 @@ export const info = {
             label: 'cooking',
             emoji: '🌶'
         }
-        // Same as above, change the emojis to match / relate to your hobbies or interests.
-        // You can also remove the emojis if you'd like, I just think they look cute :P
+
     ],
-    portfolio: [ // This is where your portfolio projects will be detailed
+    portfolio: [
         {
             title: "Web-accessible CRUD API ",
-            live: "working on it", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "working on it", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "working on it",
+            source: "working on it",
             image: backgroundhk
         },
         {
