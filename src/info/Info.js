@@ -58,7 +58,7 @@ export const info = {
         
 
     ],
-    bio: "Hello! I'm Óscar. I'm a IT Support Engineer for Instaleap. I've studied Foreign Languages but I ended working on IT by my talent and passion to computers and coding. I enjoy .br/.mx/.pt/ .co/ food, and I believe artificial intelligence will inevitably rule us all one day if we let them know how to process, code and create sentiments and emotions from humans on machines",
+    bio: "Hello! I'm Óscar. I'm a IT Support Engineer currently working at Instaleap.io. I've studied Foreign Languages but I ended working on IT by my talent and passion to computers and coding. I enjoy .br/.mx/.pt/ .co/ food, and I believe artificial intelligence will inevitably rule us all one day if we let them know how to process, code and create sentiments and emotions from humans on machines",
     skills:
     {
         proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
