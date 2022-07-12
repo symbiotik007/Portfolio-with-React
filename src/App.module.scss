@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
 @import "./variables.modules";
+@import url('https://fondosmil.com/fondo/3.jpg');
 
 body {
     font-family: 'Roboto', Helvetica, sans-serif;
@@ -8,6 +9,7 @@ body {
     height: 100%;
     color: $dark;
     background-color: $white;
+    background-image: url('https://fondosmil.com/fondo/32520.jpg');
     box-sizing: border-box;
 }
 
