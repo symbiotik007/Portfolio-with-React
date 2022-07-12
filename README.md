@@ -47,11 +47,9 @@
   reason, square images without too tall of an aspect-ratio work best.
 - example with background removed:
 
-![](https://user-images.githubusercontent.com/18350557/176955112-a84b32a6-ddfc-44c9-86e3-268e56654346.png)
 
 - example with background not removed:
 
-![](https://user-images.githubusercontent.com/18350557/176955109-2c6251d4-a623-482a-9059-e186f32f7f2c.png)
 
 #### mockups
 
