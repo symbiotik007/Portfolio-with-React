@@ -50,11 +50,11 @@ export const info = {
         {
             link: "https://github.com/symbiotik007/",
             icon: "fa fa-github"
-        },
+        },/*
         {
             link: "https://instagram.com/symbiotik_007/",
             icon: 'fa fa-instagram'
-        },      
+        },      */
         
 
     ],
