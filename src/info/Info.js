@@ -32,7 +32,7 @@ export const info = {
   ],
   socials: [
     {
-      link: "https://linkedin.com/in/oscandrebol/",
+      link: "https://linkedin.com/",
       icon: "fa fa-linkedin",
     },
     {
