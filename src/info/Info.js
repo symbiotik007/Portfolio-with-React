@@ -23,11 +23,11 @@ export const info = {
     },
     {
       emoji: "💼",
-      text: "IT Support Engineer at Instaleap",
+      text: "Technical Support Engineer II at UST.com.es",
     },
     {
       emoji: "📧",
-      text: "oscar.bolanos@instaleap.io",
+      text: "oscarandres.bolanos@ust.com",
     },
   ],
   socials: [
@@ -44,7 +44,7 @@ export const info = {
             icon: 'fa fa-instagram'
         },      */,
   ],
-  bio: "Hello! I'm Óscar. I'm a IT Support Engineer currently working at <a href="Instaleap.io"> Instaleap.io</a> I've studied Foreign Languages but I ended working on IT by my talent and passion to computers and coding. I enjoy .br/.mx/.pt/ .co/ food, and I believe artificial intelligence will inevitably rule us all one day if we let them know how to process, code and create sentiments and emotions from humans on machines",
+  bio: "Hello! I'm Óscar. I'm a Technical Support Engineer II currently working at <a href="ust.es.co"> UST.com.co</a> I've studied Foreign Languages but I ended working on IT by my talent and passion to computers and coding. I enjoy .br/.mx/.pt/ .co/ food, and I believe artificial intelligence will inevitably rule us all one day if we let them know how to process, code and create sentiments and emotions from humans on machines",
   skills: {
     proficientWith: [
       "javascript",
